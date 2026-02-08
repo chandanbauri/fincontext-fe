@@ -245,7 +245,7 @@ button:hover:not(:disabled) {
   }
 }
 
-/* Modal and Auth Styles */
+
 .modal-overlay {
   position: fixed;
   top: 0;

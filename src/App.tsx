@@ -122,7 +122,7 @@ function App() {
 
     return (
         <div className="layout">
-            {/* Overlay for mobile sidebar */}
+            {}
             {showSidebar && (
                 <div
                     onClick={() => setShowSidebar(false)}
